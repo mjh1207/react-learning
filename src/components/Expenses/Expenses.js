@@ -9,6 +9,7 @@ const Expenses = (props) => {
   const [filter, setFilter] = useState("2020");
   const filterSelectHandler = (selectedYear) => {
     setFilter(selectedYear);
+    props.onFilterExpenses(selectedYear);
   };
   return (
     <div>
