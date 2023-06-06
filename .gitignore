@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/01-starting-project2/node_modules
+/Demo-ExpensesApp/node_modules
 /.pnp
 .pnp.js
 
