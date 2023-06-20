@@ -2,13 +2,6 @@
 
 # dependencies
 /node_modules
-/01-starting-project2/node_modules
-/Demo-ExpensesApp/node_modules
-/error-handling/node_modules
-/user-app/node_modules
-/user-app-better/node_modules
-/fragments-portals-refs/node_modules
-/effect-reducers-context/node_modules
 /*/node_modules
 /.pnp
 .pnp.js
