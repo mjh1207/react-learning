@@ -9,6 +9,7 @@
 /user-app-better/node_modules
 /fragments-portals-refs/node_modules
 /effect-reducers-context/node_modules
+/*/node_modules
 /.pnp
 .pnp.js
 
